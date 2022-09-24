@@ -6,6 +6,8 @@ import { AppProvider } from "./context/AppContext";
 
 import HomeScreen from "./src/HomeScreen";
 
+//something new
+
 const Stack = createStackNavigator();
 
 function App () {
