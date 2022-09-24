@@ -10,6 +10,7 @@ import HomeScreen from "./src/HomeScreen";
 // add new things
 // again new stuff
 // yeah ok, lets do something new here,
+// and again test
 
 const Stack = createStackNavigator();
 
