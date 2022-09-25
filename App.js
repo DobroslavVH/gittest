@@ -11,7 +11,11 @@ import HomeScreen from "./src/HomeScreen";
 // again new stuff
 // yeah ok, lets do something new here,
 // and again test
+<<<<<<< HEAD
 // add test branch
+=======
+// add some content in new testing branch
+>>>>>>> tree
 
 const Stack = createStackNavigator();
 
